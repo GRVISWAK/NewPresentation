@@ -1,0 +1,100 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "rohit",
+      "email ": "rohit@gmail.com",
+      "password": "rohit"
+    },
+    {
+      "id": 2,
+      "name": "viswak",
+      "email ": "viswak@gmail.com",
+      "password": "viswak"
+    },
+    {
+      "id": 3,
+      "name": "vishwanathan",
+      "email ": "vishwanathan@gmail.com",
+      "password": "vishwananthan"
+    },
+    {
+      "name": "viswak",
+      "email": "viswak@gmail.com",
+      "password": "ndvhbhj",
+      "id": 4
+    },
+    {
+      "name": "viswak",
+      "email": "viswak@gmail.com",
+      "password": "ndvhbhj",
+      "id": 5
+    },
+    {
+      "name": "",
+      "email": "viswak@gmail.com",
+      "password": "ndvhbhj",
+      "id": 6
+    },
+    {
+      "name": "",
+      "email": "viswak@gmail.com",
+      "password": "ndvhbhj",
+      "id": 7
+    },
+    {
+      "name": "bbk",
+      "email": "",
+      "password": "biubi",
+      "id": 8
+    },
+    {
+      "name": "bbbbb",
+      "email": "",
+      "password": "nnnnnnnnnnn",
+      "id": 9
+    },
+    {
+      "name": "viswak",
+      "email": "viswak@gmail.com",
+      "password": "viswak",
+      "id": 10
+    },
+    {
+      "name": "viswak",
+      "email": "viswak@gmail.com",
+      "password": "123",
+      "id": 11
+    },
+    {
+      "name": "nami",
+      "email": "nami@gmail.com",
+      "password": "nami",
+      "id": 12
+    },
+    {
+      "name": "pet",
+      "email": "pet@gmail.com",
+      "password": "pet",
+      "id": 13
+    },
+    {
+      "name": "ram",
+      "email": "ram@gmail.com",
+      "password": "ram",
+      "id": 14
+    },
+    {
+      "name": "rohith",
+      "email": "rohith@gmail.com",
+      "password": "123",
+      "id": 15
+    },
+    {
+      "name": "aswath",
+      "email": "aswath@gmail.com",
+      "password": "123",
+      "id": 16
+    }
+  ]
+}
